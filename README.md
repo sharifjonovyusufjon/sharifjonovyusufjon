@@ -1,12 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/name-light.png">
-  <img alt="Sharifjonov Yusufjon" width="375" src="assets/name-light.png">
-</picture>
-
-<br>
+# Sharifjonov Yusufjon
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/role-dark.png">
